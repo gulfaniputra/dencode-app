@@ -1,7 +1,5 @@
 # Dencode App
 
-_**Note:** this project is a work in progress_
-
 A spartan QR code generator.
 
 The name 'Dencode' derives from the portmanteau of 'Denso' and 'code'.
@@ -14,6 +12,8 @@ The name 'Dencode' derives from the portmanteau of 'Denso' and 'code'.
 - [Stack](#stack)
 
 ## Demo
+
+https://dencodeqr.vercel.app/
 
 ## Introduction
 
